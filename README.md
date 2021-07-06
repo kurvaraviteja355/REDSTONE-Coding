@@ -12,4 +12,6 @@ $ https://github.com/kurvaraviteja355/REDSTONE-Coding.git/
 $ pip install -r requirements.txt
 
 ```
+### Named Entity Recognigation 
+![NER](NER Project.jpg)
  
