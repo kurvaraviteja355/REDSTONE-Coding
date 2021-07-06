@@ -1,0 +1,5 @@
+spacy == 2.3.5
+Flask == 1.1.2
+collections == 0.1.6
+pandas == 1.2.5
+requests == 2.25.1
