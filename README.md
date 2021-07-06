@@ -13,5 +13,5 @@ $ pip install -r requirements.txt
 
 ```
 ### Named Entity Recognigation 
-![NER](NER Project.jpg)
+![NER](NER%20Project.JPG)
  
