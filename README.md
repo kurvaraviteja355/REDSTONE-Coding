@@ -1,5 +1,9 @@
 ## REDSTONE-Coding
 ### Data Team Coding
+
+Entity Recognition API 
+Developed the API for Recognition of the Company Names from any given text 
+
 * Steps and important command to begin
 * Open an anaconda prompt and create new environment
 ```
@@ -12,6 +16,6 @@ $ https://github.com/kurvaraviteja355/REDSTONE-Coding.git/
 $ pip install -r requirements.txt
 
 ```
-### Named Entity Recognigation 
+### Named Entity Recognition
 ![NER](NER%20Project.JPG)
  
